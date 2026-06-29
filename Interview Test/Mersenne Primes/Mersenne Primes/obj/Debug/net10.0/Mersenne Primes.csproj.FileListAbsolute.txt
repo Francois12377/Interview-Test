@@ -1,0 +1,14 @@
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\bin\Debug\net10.0\Mersenne Primes.exe
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\bin\Debug\net10.0\Mersenne Primes.deps.json
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\bin\Debug\net10.0\Mersenne Primes.runtimeconfig.json
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\bin\Debug\net10.0\Mersenne Primes.dll
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\bin\Debug\net10.0\Mersenne Primes.pdb
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\Mersenne Primes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\Mersenne Primes.AssemblyInfoInputs.cache
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\Mersenne Primes.AssemblyInfo.cs
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\Mersenne Primes.csproj.CoreCompileInputs.cache
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\Mersenne Primes.dll
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\refint\Mersenne Primes.dll
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\Mersenne Primes.pdb
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\Mersenne Primes.genruntimeconfig.cache
+C:\Users\overl\Desktop\Interview Test\Mersenne Primes\Mersenne Primes\obj\Debug\net10.0\ref\Mersenne Primes.dll

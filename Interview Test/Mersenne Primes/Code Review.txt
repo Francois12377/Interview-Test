@@ -1,0 +1,9 @@
+At the moment there are  glaring issues.
+
+The Algorithm struggles to find any numbers above the 61 mark because checking for primes when you are dealing with 19 digit numbers is a very resource intensive job.
+The second problem I had was integer overflow that I fixed by switching to Long format. But that is just temporary because any Mersenne prime number above 61 has more
+than 19 digits so displaying that number is not something my algorith can do at the moment. 
+
+It has also been brought to my attention that there was also an issue with using Math.pow(2,count) and by extension Math.sqrt(). These functions return double values which 
+have the same issue i had with the integer values. They have a relatively low size limit and will overflow when it comes to the big numers.
+

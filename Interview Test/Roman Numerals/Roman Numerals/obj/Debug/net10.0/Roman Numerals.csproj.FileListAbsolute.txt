@@ -1,0 +1,14 @@
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\bin\Debug\net10.0\Roman Numerals.exe
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\bin\Debug\net10.0\Roman Numerals.deps.json
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\bin\Debug\net10.0\Roman Numerals.runtimeconfig.json
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\bin\Debug\net10.0\Roman Numerals.dll
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\bin\Debug\net10.0\Roman Numerals.pdb
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\Roman Numerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\Roman Numerals.AssemblyInfoInputs.cache
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\Roman Numerals.AssemblyInfo.cs
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\Roman Numerals.csproj.CoreCompileInputs.cache
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\Roman Numerals.dll
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\refint\Roman Numerals.dll
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\Roman Numerals.pdb
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\Roman Numerals.genruntimeconfig.cache
+C:\Users\overl\Desktop\Interview Test\Roman Numerals\Roman Numerals\obj\Debug\net10.0\ref\Roman Numerals.dll
