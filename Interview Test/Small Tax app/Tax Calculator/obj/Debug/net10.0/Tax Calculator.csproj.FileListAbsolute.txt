@@ -1,0 +1,169 @@
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\appsettings.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.staticwebassets.runtime.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.staticwebassets.endpoints.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.exe
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.deps.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.runtimeconfig.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.dll
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.pdb
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax Calculator.AssemblyInfoInputs.cache
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax Calculator.AssemblyInfo.cs
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax Calculator.csproj.CoreCompileInputs.cache
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax_Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\scopedcss\bundle\Tax_Calculator.styles.css
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\scopedcss\projectbundle\Tax_Calculator.bundle.scp.css
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\bpr06lu9t8-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\fn1h94phpl-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\ig7lf055a7-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\mp2fov7kq7-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\43ya3150oh-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\sitemw3hw9-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\h1dt5vrdhm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\1lwstc5xji-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\z1q2hkn1jl-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\vfdtn614qs-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\8itzumkk3f-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\69zd92csv3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\01tgkl6z4x-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\wukuj1o9st-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\oddctfbach-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\htdi9xgdwj-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\8j6jwx2yd5-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\lmx5a9t1x8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\7kznft02rb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\wocytc20yd-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\1jujv2ja7j-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\5jzpgfm5zx-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\v2mq9cpk9x-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\pqewlcwr0u-{0}-06098lyss8-06098lyss8.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\qo77v1kdz1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\59t1vb37xj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\9sijexl01x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\i69kfdjl4w-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\8vbriwg4pj-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\kn7ejn408w-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\ru30vs7g7g-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\8rjycndheq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\r6mza4r0m2-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\63ixirdb08-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\75slg89bzg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\yrc7anxdsp-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\m8yeuo6mmf-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\7an8sve2y0-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\tu8z8hlx3m-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\923paj9vyc-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\t9joc6r8e1-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\1e2i8h8hwy-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\u3alvpdw2x-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\urjjl0cce8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\lwoz0k49w2-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\3ub85de92m-{0}-ne14ti1q68-ne14ti1q68.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\2enu5upkj9-{0}-ig5xotzpx5-ig5xotzpx5.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax_Calculator.dll
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\refint\Tax_Calculator.dll
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax_Calculator.pdb
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\Tax Calculator.genruntimeconfig.cache
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\ref\Tax_Calculator.dll
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\1b9l3azqjo-{0}-cnn5dau52w-cnn5dau52w.gz
+C:\Users\overl\Desktop\Interview Test\Small Tax Application\Tax Calculator\obj\Debug\net10.0\compressed\7xxno5h1uv-{0}-cnn5dau52w-cnn5dau52w.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\appsettings.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.staticwebassets.endpoints.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.staticwebassets.runtime.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.exe
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.deps.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.runtimeconfig.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.dll
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\bin\Debug\net10.0\Tax_Calculator.pdb
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax Calculator.AssemblyInfoInputs.cache
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax Calculator.AssemblyInfo.cs
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax Calculator.csproj.CoreCompileInputs.cache
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax_Calculator.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax Calculator.sourcelink.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\scopedcss\bundle\Tax_Calculator.styles.css
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\scopedcss\projectbundle\Tax_Calculator.bundle.scp.css
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\bpr06lu9t8-{0}-khy4lop6wu-khy4lop6wu.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\fn1h94phpl-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\ig7lf055a7-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\mp2fov7kq7-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\43ya3150oh-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\sitemw3hw9-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\h1dt5vrdhm-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\1lwstc5xji-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\z1q2hkn1jl-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\vfdtn614qs-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\8itzumkk3f-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\69zd92csv3-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\01tgkl6z4x-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\wukuj1o9st-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\oddctfbach-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\htdi9xgdwj-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\8j6jwx2yd5-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\lmx5a9t1x8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\7kznft02rb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\wocytc20yd-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\1jujv2ja7j-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\5jzpgfm5zx-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\v2mq9cpk9x-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\pqewlcwr0u-{0}-06098lyss8-06098lyss8.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\qo77v1kdz1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\59t1vb37xj-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\9sijexl01x-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\i69kfdjl4w-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\8vbriwg4pj-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\kn7ejn408w-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\ru30vs7g7g-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\8rjycndheq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\r6mza4r0m2-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\63ixirdb08-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\75slg89bzg-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\yrc7anxdsp-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\m8yeuo6mmf-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\7an8sve2y0-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\tu8z8hlx3m-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\923paj9vyc-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\t9joc6r8e1-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\1e2i8h8hwy-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\u3alvpdw2x-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\urjjl0cce8-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\lwoz0k49w2-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\3ub85de92m-{0}-ne14ti1q68-ne14ti1q68.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\2enu5upkj9-{0}-ig5xotzpx5-ig5xotzpx5.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\1b9l3azqjo-{0}-cnn5dau52w-cnn5dau52w.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\compressed\7xxno5h1uv-{0}-cnn5dau52w-cnn5dau52w.gz
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax_Calculator.dll
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\refint\Tax_Calculator.dll
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax_Calculator.pdb
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\Tax Calculator.genruntimeconfig.cache
+C:\Users\overl\Desktop\Interview Test\Tax Calculator\obj\Debug\net10.0\ref\Tax_Calculator.dll

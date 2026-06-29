@@ -1,0 +1,70 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>Tax Calculator</PageTitle>
+
+
+
+<div>
+    <label id="monthlyl" >Your Annual Salary: </label>   <input id="annual" @bind-value="annual" />
+    <br />
+     <label id="agel">Your Current age: </label> <input id="age" @bind-value="age" />
+     <br />
+     <label id="Totall">@total</label>
+     <br />
+    <button class="btn btn-primary" @onclick="Calculate">Calculate</button>
+
+</div>
+
+
+@code {
+    private double annual;
+    private double monthly;
+    private int age;
+    private string total;
+    private double relief;
+    private double deduction;
+    private double deductionP;
+    private double calc = 0;
+
+    private void Calculate()
+    {
+
+        monthly = annual / 12;
+        switch(age > 50)
+        {
+            case true:
+                relief = 5000;
+                deductionP = 85;
+                break;
+
+            case false:
+                if(age < 18 )
+                {
+                    total = "NO TAX (Because I was not told what to do for < 18)";
+                    return;
+                }
+                else
+                {
+                    relief = 2000;
+                    deductionP = 100;
+                }
+                break;
+        }   
+
+        deduction = monthly switch
+        {
+            < 5000 => 0,
+            < 10000 => 5,
+            < 20000 => 7.5,
+            < 35000 => 9,
+            < 50000 => 15,
+            < 70000 => 25,
+            >= 70000 => 30
+        };
+
+        calc = (annual * ((deduction / 100) * (deductionP / 100))) - relief;
+
+       total = (calc).ToString(); 
+    }
+}
